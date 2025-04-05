@@ -17,7 +17,7 @@ Este bot foi utilizado no servidor oficial do **Brasil Mundo Real (BMR)** para a
 ### 📊 Mensagem final no Discord
 ![mensagem final](print-final-msg.png)
 
-### 👥 Cargo aplicado com sucesso a 11.867 membros
+### 👥 Cargo aplicado com sucesso a 11.863 membros
 ![todos com cargo](print-membros-cargo.png)
 
 ---
